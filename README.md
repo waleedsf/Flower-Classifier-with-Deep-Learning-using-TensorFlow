@@ -3,7 +3,7 @@
 
 ### Project Overview
 
-Project is to develop a deep neural network with TensorFlow that recognizes the type of a flower using 102 different types of flowers, where there are ~20 images per flower to train on.
+Project is to develop a deep neural network with TensorFlow that recognizes the type of a flower from 102 different types, where there are ~20 images per flower to train on.
 
 #### the project consists of two parts:
 
