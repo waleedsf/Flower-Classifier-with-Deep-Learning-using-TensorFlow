@@ -8,6 +8,6 @@ In this project, I'll train an image classifier to recognize different species o
 
 # Project consists of two parts:
 
-Part1: Build and train a custom image classifier using a pre-trained network "MobileNet", The new neural network was trained on Oxford Flowers 102 dataset and then saved with the .h5 extension in this repository.
+Part 1: Build and train a custom image classifier using a pre-trained network "MobileNet", The new neural network was trained on Oxford Flowers 102 dataset and then saved with the .h5 extension in this repository.
 
-Part2: Convert and developed the saved Keras model from part1 into a command-line application.
+Part 2: Convert and developed the saved Keras model from part1 into a command-line application.
